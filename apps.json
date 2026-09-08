@@ -195,5 +195,14 @@
     "x": "https://x.com/TheCookieChain",
     "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookie-mcp.png",
     "live": true
+  },
+  {
+    "title": "CookieCanvas",
+    "description": "Collaborative 16 x 16 pixel mural replayed from signed Cookie Chain program instructions, with Nightly wallet support and public activity analytics.",
+    "tag": "Social",
+    "href": "https://fzlzjerry.github.io/cookiecanvas/",
+    "x": "https://x.com/moraxc08",
+    "logo": "https://raw.githubusercontent.com/cookiechain/apps/main/logos/cookiecanvas.png",
+    "live": false
   }
 ]
